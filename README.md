@@ -1,4 +1,4 @@
-## test bowlers analysis
+## Test bowlers analysis
     1.Reading a .csv file
     2.Reading number of rows and columns
     3.Checking data statistics
