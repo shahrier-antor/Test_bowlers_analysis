@@ -11,4 +11,4 @@
     10.Finding the number of unique values of a column of the dataframe
     11.Conversion of datatype of a column of the dataframe
     12.Sorting the columns in ascending and decending orders
-    13.Finding the lowest and highest value of a column
+    13.Finding the lowest and highest value of a column.
